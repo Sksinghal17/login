@@ -23,6 +23,8 @@ public class User {
     @Column(name = "username")
     private String userName;
 
+
+
     @Column(name = "password")
     private String password;
 
